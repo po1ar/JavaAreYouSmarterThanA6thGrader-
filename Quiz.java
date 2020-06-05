@@ -15,9 +15,9 @@ public class Quiz {
   }
   //prints the leaderboards and organizes it by highest score to lowest
   public static void printQuiz() {
-    Collections.sort(leaderboards);
     System.out.println("Leaderboards: ");
     for (int i = 0; i < leaderboards.size(); i++) {
+      Collections.sort(leaderboards);
       System.out.println(leaderboards.get(i));
     }
   }
