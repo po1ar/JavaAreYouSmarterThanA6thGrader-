@@ -8,7 +8,7 @@ Do you think you're smarter than a 6th Grader? Let's find out!
 
 Goal of the software:
 
-	The goal of this is for anyone to be able to see if they can answer a simple quiz with questions that 6th graders 	  learn as a part of the their curriculum. It also displays the leaderboard of all the players who played and their name 	 & score.
+	The goal of this is for anyone to be able to see if they can answer a simple quiz with questions that 6th graders learn as a part of the their curriculum. It also displays the leaderboard of all the players who played and their name & score.
 
 Main.java is a class that states the questions and if the user answers the correct question, it will update their score. At the end, you will see a leaderboard of the names in alphabetical order
 
